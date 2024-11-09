@@ -13,7 +13,7 @@ public class Menu {
             while (true) {
                 displayMenuHeader("WELCOME TO FOODIE APP");
                 System.out.println();
-                System.out.println("Please select the option !");
+                System.out.println("Please select the option!");
                 System.out.println("--------------------------");
                 System.out.println("1. Customer Section");
                 System.out.println("2. Restaurant Section");
